@@ -28,8 +28,6 @@
 💁🏻‍♀️ Personalidade INFP-T (16Personalities) / Condescendente (DISC).
 </div>
 
-<br>
-
 <div titulo contato>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&duration=4000&pause=1000&color=2395C7&center=true&vCenter=true&repeat=false&width=500&height=60&lines=Contatos" alt="Typing SVG" /></a>
 </div>
