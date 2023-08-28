@@ -5,7 +5,7 @@
 <br>
 
 <div cartao e visitas>
-  <img align="right" height="590em" src="https://github.com/NatiVieira-dev/NatiVieira-dev/blob/main/Nati%20Vieira.png?raw=true">
+  <img align="right" height="500em" src="https://github.com/NatiVieira-dev/NatiVieira-dev/blob/main/Nati%20Vieira.png?raw=true">
   <h1>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=NatiVieira-dev&color=FA04D7&label=Visitas" alt="Visitas" /> </p>
 </div>
